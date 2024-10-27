@@ -1,2 +1,1 @@
-python -m venv myenv
-source myenv/bin/activate  # No Windows, use `myenv\Scripts\activate`
+ pip install --upgrade pip
