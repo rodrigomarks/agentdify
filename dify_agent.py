@@ -1,4 +1,3 @@
-pip install --upgrade pip
 import requests
 
 def chamar_agente_dify(texto):
